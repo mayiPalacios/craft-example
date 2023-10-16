@@ -1,0 +1,33 @@
+/* App.css */
+.app-container {
+  margin: 0 auto;
+  width: 800px;
+  padding-top: 10px;
+}
+
+.app-title {
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+.editor-container {
+  display: flex;
+}
+
+.editor-item {
+  background: #eee;
+  padding: 5px;
+}
+
+.nested-container {
+  background: #999;
+  padding: 6px;
+}
+
+.toolbox-container {
+  /* Estilos para el panel de herramientas */
+}
+
+.settings-panel-container {
+  /* Estilos para el panel de configuración */
+}
